@@ -1,15 +1,15 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  title: 'JS.',
+  homepage: 'https://github.com/ladinar',
+  title: 'My Portfolio.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
+  name: 'Ladinar Nanda Aprilia',
   role: 'Front End Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'I`m a highly competent Frontend Developer with a proven track record in Internal Project. I am a hardworking and well as excellent interpersonal skill. I am eager to be challenged in order to grow and further improve my skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
