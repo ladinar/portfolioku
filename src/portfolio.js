@@ -12,7 +12,7 @@ const about = {
     'I`m a highly competent Frontend Developer with a proven track record in Internal Project. I am a hardworking and well as excellent interpersonal skill. I am eager to be challenged in order to grow and further improve my skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.',
   resume: 'https://example.com',
   social: {
-    linkedin: 'linkedin.com/in/ladinar-n-669602138',
+    linkedin: 'https://www.linkedin.com/in/ladinar-n-669602138/',
     github: 'https://github.com/ladinar',
   },
 }
