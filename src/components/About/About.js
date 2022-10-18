@@ -34,6 +34,7 @@ const About = () => {
                 aria-label='github'
                 className='link link--icon'
                 target="_blank"
+                rel="noreferrer"
               >
                 <GitHubIcon />
               </a>
@@ -45,6 +46,7 @@ const About = () => {
                 aria-label='linkedin'
                 className='link link--icon'
                 target="_blank"
+                rel="noreferrer"
               >
                 <LinkedInIcon />
               </a>
